@@ -4,7 +4,7 @@
 
 Welcome to the Date Checker App!
 
-This app is a simple web-based application built using HTML, CSS, and JavaScript. The app's primary function is to allow users to check whether a given date is a valid date or not. With this app, users can input a date in the specified format and the app will return whether the date is valid or not.
+This app is a simple web-based application built using HTML, CSS, and JavaScript. The app's primary function is to allow me to work more with JS Dates. With this app, users can check to see what is the current date. 
 
 ## How it's made:
 
@@ -14,7 +14,7 @@ The date checking functionality was implemented using the JavaScript Date object
 
 ## Optimizations:
 
-This app could also be exteended to check the time as well. 
+This app could also be extended to check the time as well. 
 
 ## Lessons learned:
 
