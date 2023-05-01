@@ -24,3 +24,11 @@ During the learning process keep building and keep having fun!
 
 To get started with the Date Checker App, simply open the index.html file in your preferred web browser. The app will load and you can begin using it by inputting a date in the specified format.
 
+## Examples of Other Projects:
+1. Sunnyside Marketing: https://sunny-side-marketing.netlify.app/
+2. Blackjack App: https://play-black-jack.netlify.app/
+3. Pomodoro Task Manager: https://task-manager-apppomodoro.netlify.app/
+4. Vegetarian Checker: https://vegetarianchecker.netlify.app/
+5. Shaken Not Stirred: https://shaken-not-stirred.netlify.app/
+6. Guess the Number https://glittering-starburst-cf13fe.netlify.app/
+
